@@ -6,5 +6,5 @@ def tri_recursion(k):
     result = 0
   return result
 
-print("\n\nRecursion Example Results yeahhhhhhhhh")
+print("\n\nRecursion Example Results ")
 tri_recursion(6)
